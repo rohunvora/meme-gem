@@ -1,0 +1,32 @@
+{
+  "subject": "Person Name",
+  "images": {
+    "front_neutral.jpg": {
+      "angle": "front",
+      "expression": "neutral, slight smile",
+      "use_for": ["default", "most memes"],
+      "primary": true
+    },
+    "laughing_3quarter.jpg": {
+      "angle": "3quarter",
+      "expression": "laughing, joyful",
+      "use_for": ["laughing", "happy", "reaction memes"]
+    },
+    "confused_front.jpg": {
+      "angle": "front",
+      "expression": "confused, skeptical",
+      "use_for": ["confused", "skeptical", "frustrated"]
+    },
+    "serious_front.jpg": {
+      "angle": "front",
+      "expression": "serious, neutral",
+      "use_for": ["serious", "disapproving", "stern"]
+    }
+  },
+  "features": {
+    "glasses": "describe if they wear glasses",
+    "facial_hair": "beard, mustache, clean-shaven",
+    "hair": "color and style",
+    "skin_tone": "for accurate reproduction"
+  }
+}
